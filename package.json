@@ -1,0 +1,17 @@
+{
+  "name": "sound-addition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.0.1",
+    "mkdirp": "^0.5.1",
+    "mkdirp-promise": "^1.0.4",
+    "rimraf-promise": "^2.0.0"
+  }
+}
